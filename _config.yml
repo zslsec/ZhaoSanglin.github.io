@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhao Sanglin / Site Title"
+title                    : "Zhao Sanglin "
 title_separator          : "-"
 name                     : &name "Zhao Sanglin"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sanglin Zhao(赵桑林)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Zhao Sanglin, a member of the China Society for Technology and Economics, is currently pursuing a master's degree at the University of Science and Technology of Macau. He is a research assistant at the City University of Hong Kong (Dongguan), with a focus on intelligent healthcare and machine learning."
   location         : "Earth"
   employer         : "University"
   uri              : # URL
