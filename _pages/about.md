@@ -7,29 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-test
+Zhao Sanglin, a member of the China Society for Technology and Economics, is currently pursuing a master's degree at the University of Science and Technology of Macau. He is a research assistant at the City University of Hong Kong (Dongguan), with a focus on intelligent healthcare and machine learning.
 
-A data-driven personal website
-======
-
-Getting started
+介绍
 ======
 
 
-Site-wide configuration
-------
 
-
-Create content & metadata
-------
-of the _talks directory).
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-
-
-For more info
 
