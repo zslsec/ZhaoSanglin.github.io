@@ -34,9 +34,9 @@ Skills
 
 Publications
 ======
-1.*Sanglin Zhao. et al,(2024).Spatial-temporal evolution characteristics and driving factors of carbon emission prediction in China-research on ARIMA-BP neural network algorithm.Frontiers in Environmental Science,12:1497941.中文标题：中国碳排放预测的时空演化特征及驱动因素分析:ARIMA-BP神经网络算法研究(Scoups Q1,JCR Q2,IF=4.4,SCI,23引用)
-2.Sanglin Zhao et al.. (2025).Digital trade and common prosperity: evidence from China Province.Cogent Economics & Finance,13(1).(JCR Q1,ABDC B,IF=2.5,ABS1,ESCI)
-3.Ye, J., Zhao, S., Qi, Y., & Yua, B. (2026). Do local governments walk the talk? Environmental policy expression, semantic structure, and green productivity transformation. Applied Economics, 1–18. https://doi.org/10.1080/00036846.2026.2738835(SSCI Q2,ABS2,IF=2.6)
+* 1.Sanglin Zhao. et al,(2024).Spatial-temporal evolution characteristics and driving factors of carbon emission prediction in China-research on ARIMA-BP neural network algorithm.Frontiers in Environmental Science,12:1497941.中文标题：中国碳排放预测的时空演化特征及驱动因素分析:ARIMA-BP神经网络算法研究(Scoups Q1,JCR Q2,IF=4.4,SCI,23引用)
+* 2.Sanglin Zhao et al.. (2025).Digital trade and common prosperity: evidence from China Province.Cogent Economics & Finance,13(1).(JCR Q1,ABDC B,IF=2.5,ABS1,ESCI)
+* 3.Ye, J., Zhao, S., Qi, Y., & Yua, B. (2026). Do local governments walk the talk? Environmental policy expression, semantic structure, and green productivity transformation. Applied Economics, 1–18. https://doi.org/10.1080/00036846.2026.2738835(SSCI Q2,ABS2,IF=2.6)
   
 Talks
 ======
