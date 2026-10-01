@@ -40,7 +40,8 @@ Publications
   
 Talks
 ======
-  
+Zhao Sanglin, male. He is a member of the Chinese Society of Technology and Economics, as well as a member of the Chinese Society of Civil Engineering and the Chinese On site Statistical Research Association. Formerly served as a research assistant in the Department of Systems Engineering at City University of Hong Kong (Dongguan).
+Its main research areas cover machine learning, intelligent healthcare, digital economy, and enterprise economy. Published multiple academic papers in journals and conferences, including SCI and SSCI indexed journal achievements; Having computer software copyright and accepting patent applications; Has won provincial and above awards multiple times in national college students' mathematical modeling, statistical modeling, and mathematics competitions. Participate in research related to artificial intelligence, medical intelligence, digital trade, and carbon emission prediction. At the same time, he loves art and his calligraphy works have won awards multiple times. He is also physically healthy and loves sports, with a height of nearly 190cm. He enjoys swimming and other activities.  
   
 Teaching
 ======
