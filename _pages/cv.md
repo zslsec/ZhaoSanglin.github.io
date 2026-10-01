@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in BA,MUST 2026 (expected)
+* M.S. in BA,MUST 2026(expected)
+* B.S. in EM, HUFE University, 2022-2026
 
 Work experience
 ======
@@ -27,8 +27,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Summer 2026: Research Assistant
+  * CityUHK-DG University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
