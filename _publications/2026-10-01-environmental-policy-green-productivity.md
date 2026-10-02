@@ -7,7 +7,7 @@ excerpt: 'This paper examines whether local governments align their environmenta
 date: 2026-10-01
 venue: 'Applied Economics'
 header:
-  teaser: /images/graphical-abstract-policy-green-productivity.png
+  teaser: https://zslsec.github.io/ZhaoSanglin.github.io/images/graphical-abstract-policy-green-productivity.png
 slidesurl: ''
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00036846.2026.2738835'
 bibtexurl: ''
