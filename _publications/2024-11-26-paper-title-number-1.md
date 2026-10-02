@@ -2,7 +2,7 @@
 title: "Spatial-temporal evolution characteristics and driving factors of carbon emission prediction in China-research on ARIMA-BP neural network algorithm"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-11-26-paper-title-number-1
 excerpt: 'This paper is about the hybrid ARIMA‑BP neural network to predict China’s provincial carbon emissions from 2000 to 2035. It explores spatiotemporal distribution features via GIS and decomposes emission‑driving factors with LMDI, offering references for China’s low‑carbon policy‑making.'
 date: 2024-11-26
 venue: 'Frontiers in Environmental Science'
