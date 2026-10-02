@@ -7,7 +7,7 @@ excerpt: 'This paper is about the hybrid ARIMA‑BP neural network to predict Ch
 date: 2024-11-26
 venue: 'Frontiers in Environmental Science'
 slidesurl: 'https://ZhaoSanglin.github.io/files/slides1.pdf'
-paperurl: 'https://github.com/ZhaoSanglin.github.io/files/fenvs-12-1497941.pdf'
+paperurl: 'https://github.com/ZhaoSanglin.github.io/files/fenvs-12-1497941.pdf](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1497941/full'
 bibtexurl: 'https://ZhaoSanglin.github.io/files/bibtex1.bib'
 citation: 'Sanglin Zhao. et al,(2024).Spatial-temporal evolution characteristics and driving factors of carbon emission prediction in China-research on ARIMA-BP neural network algorithm.Frontiers in Environmental Science,12:1497941..'
 ---
