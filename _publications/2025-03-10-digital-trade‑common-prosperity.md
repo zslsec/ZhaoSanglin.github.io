@@ -7,7 +7,7 @@ excerpt: 'This article explores the linkage between digital trade and common pro
 date: 2025-03-10
 venue: 'Cogent Economics & Finance'
 slidesurl: ''
-paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23322039.2025.xxxxxx'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23322039.2025.2494125'
 bibtexurl: ''
 citation: 'Sanglin Zhao et al. (2025). Digital trade and common prosperity: evidence from China Province. Cogent Economics & Finance, 13(1).'
 ---
