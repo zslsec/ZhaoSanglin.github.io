@@ -2,7 +2,7 @@
 title: "Do local governments walk the talk? Environmental policy expression, semantic structure, and green productivity transformation"
 collection: publications
 category: manuscripts
-permalink: /publications/2026-10-01-environmental-policy-green-productivity
+permalink: /publication/2026-10-01-environmental-policy-green-productivity
 excerpt: 'This paper examines whether local governments align their environmental policy expression with actual green productivity transformation by analyzing the semantic structure of policy texts.'
 date: 2026-10-01
 venue: 'Applied Economics'
